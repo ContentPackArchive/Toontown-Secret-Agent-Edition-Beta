@@ -1,7 +1,7 @@
 # Toontown-Secret-Agent-Edition-Beta
 A Toontown Online Content Pack made by Joey Ziolkowski. This Content Pack is currently not fully functional with Toontown Rewritten.
 
-Original Description:
+Original description:
 
 This is made mainly for people in my clan, the TTSA. (Toontown Secret Agents)
 Learn more about it here:
