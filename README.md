@@ -1,5 +1,5 @@
 # Toontown-Secret-Agent-Edition-Beta
-A Toontown Online Content Pack made by Joey Ziolkowski.
+A Toontown Online Content Pack made by Joey Ziolkowski. This Content Pack is currently not fully functional with Toontown Rewritten.
 
 Original Description:
 
